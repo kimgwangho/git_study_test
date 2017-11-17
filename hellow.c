@@ -5,5 +5,8 @@ int main(void)
 	printf("tell your world\n");
 	printf("tell his name\n");
 
+=======
+	pritnf("sadasdsadsadasq\n");
+
 	return 0;
 }
