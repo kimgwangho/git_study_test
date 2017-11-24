@@ -1,6 +1,6 @@
 //Edited on Local
 //Edited on Github
-//Edited on Github
+//Edited on Githubd
 
 #include<stdio.h>
 int main(void)
