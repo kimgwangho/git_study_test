@@ -8,6 +8,7 @@ int main(void)
 	printf("hello world!\n");
 	printf("tell your world\n");
 	printf("tell his name\n");
+	printf("hellow gitHub/n");
 
 =======
 	pritnf("sadasdsadsadasq\n");
